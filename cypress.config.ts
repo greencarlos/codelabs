@@ -5,6 +5,8 @@ export default defineConfig({
     baseUrl: 'http://localhost:4200',
   },
 
+  projectId: 'wns9nx',
+
   component: {
     devServer: {
       framework: 'angular',
