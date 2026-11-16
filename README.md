@@ -3,6 +3,7 @@
 npm Angular types [here](https://npmjs.com/search?q=types%2Fangular)
 
 
+[Listing Data](https://gist.github.com/MarkTechson/efe8a9d4727ef33949b78812e66db082) | [Styles](https://gist.github.com/MarkTechson/efe8a9d4727ef33949b78812e66db082)
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.29.
 
@@ -61,3 +62,8 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+
+
+
