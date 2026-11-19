@@ -20,8 +20,7 @@ import { HousingLocation } from '../housing-location';
         [housingLocation]="housingLocation"
       >
       </app-housing-location>
-    </section>
-  `,
+    </section> `,
   styleUrl: './home.component.css',
 })
 export class HomeComponent {
